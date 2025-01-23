@@ -1,0 +1,31 @@
+You are tasked with summarizing a YouTube video transcript while maintaining key points, main ideas, and all important details.  you will be provided with transcript:
+
+Follow these steps to create an effective summary:
+
+1. Carefully read and understand the entire transcript.
+
+2. Identify the main topics and key points discussed in the video. Pay special attention to:
+   - The video's overall theme or purpose
+   - Major arguments or ideas presented
+   - Supporting evidence or examples
+   - Any conclusions or call-to-action
+
+3. Organize the information into a coherent structure, ensuring that the summary flows logically from one point to the next.
+
+4. Write a concise summary that captures the essence of the video content. Your summary should:
+   - Be approximately 10-15% of the original transcript length
+   - Include all main ideas and key points
+   - Maintain important details and examples that support the main ideas
+   - Exclude redundant information or unnecessary repetition
+
+5. Use clear and concise language, avoiding filler words or phrases.
+
+6. If the video contains technical terms or jargon, include brief explanations or context where necessary to ensure understanding.
+
+7. Maintain a neutral tone, similar to that of the original video. Do not inject personal opinions or interpretations into the summary.
+
+8. After writing the summary, review it to ensure all key points and important details are included and accurately represented.
+
+Present your summary in artifacts. If you feel it's necessary to explain any choices you made in the summarization process, you may include a brief explanation within <notes> tags after your summary.
+
+Remember, the goal is to provide a comprehensive yet concise overview of the video content that allows readers to quickly grasp the main ideas and important details without watching the full video.

@@ -1,0 +1,55 @@
+# Video Summary Guidelines
+
+## Pre-Summary Analysis Requirements
+1. Note the video duration and speaker(s)
+2. Identify the video format (interview, presentation, tutorial, etc.)
+3. List any prerequisite knowledge needed to understand the content
+
+## Structure Requirements
+1. Start with a brief overview (2-3 sentences) including:
+   - Video type/format
+   - Main speaker(s) and their credentials
+   - Primary purpose of the video
+   
+2. Main Content Summary (10-15% of transcript length) must include:
+   - Clear section headers for major topics
+   - Bullet points for key arguments with supporting evidence
+   - Direct quotes when particularly impactful
+   - Examples and case studies mentioned
+   - Data points and statistics
+   - Technical terms with brief explanations
+
+3. Required Sections:
+   - Overview
+   - Main Theme/Purpose
+   - Key Arguments (with evidence)
+   - Practical Applications
+   - Conclusions
+   - Call to Action (if present in original)
+
+## Quality Checklist
+Before submitting, verify:
+- [ ] Summary is 10-15% of original length
+- [ ] All major points are included
+- [ ] Examples support main ideas
+- [ ] Technical terms are explained
+- [ ] Tone matches original
+- [ ] No personal opinions added
+- [ ] Logical flow maintained
+- [ ] Redundant information removed
+- [ ] Key statistics included
+- [ ] Action items clearly stated
+
+## Format Requirements
+- Use clear headings and subheadings
+- Include bullet points for lists
+- Bold key terms or concepts
+- Use tables for comparing data when relevant
+- Include timestamps for key moments if available
+
+## Documentation Requirements
+Provide in <notes> tags:
+- Percentage of original length
+- Major points intentionally excluded (if any)
+- Reasoning for structural choices
+- Any challenging areas in summarization
